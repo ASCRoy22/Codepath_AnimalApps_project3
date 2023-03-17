@@ -61,7 +61,7 @@ Here is my entry for the "Create a second layout, this time for an original, per
 
 It is for an app that **brief description**.
 
-<img src="ezgif.com-video-to-gif (2).gif" title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src="ezgif.com-video-to-gif (3).gif" title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Notes
 
