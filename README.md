@@ -61,7 +61,7 @@ Here is my entry for the "Create a second layout, this time for an original, per
 
 It is for an app that **brief description**.
 
-<img src='https://imgur.com/a/rPqER7M' title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
+<img src="https://imgur.com/a/rPqER7M.gif" title='Chosen Screenshot' width='' alt='Chosen Screenshot' />
 
 ## Notes
 
