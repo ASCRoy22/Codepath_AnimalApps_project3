@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Codepath Project 3 AnimalApps</string>
+    <string name="Term"><u>Terms of Use</u></string>
+    <string name="privacy"><u>Privacy Policy</u></string>
+    <string name="full">By continuing you accept our <u>Terms of Use </u >and <u>Privacy Policy</u> </string>
+    <string name="test"><![CDATA[This is an <u>underline</u>.]]></string>
+</resources>
